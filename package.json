@@ -1,0 +1,25 @@
+{
+  "name": "nodejswebsite",
+  "version": "1.0.0",
+  "description": "мое изучение nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderLivanov/NodeJSWebsite.git"
+  },
+  "author": "Alexander Livanov <sashalivanov2007@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderLivanov/NodeJSWebsite/issues"
+  },
+  "homepage": "https://github.com/AlexanderLivanov/NodeJSWebsite#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
